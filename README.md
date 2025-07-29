@@ -61,7 +61,7 @@ pong-patterns/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pong-patterns.git
+git clone https://github.com/Manuelmj123/Pong-Patterns.git
 cd pong-patterns
 ```
 
